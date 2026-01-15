@@ -6,7 +6,7 @@ Over the last **15+ years**, I’ve architected and delivered scalable solutions
 
 For more than **a decade**, my core focus has been **end-to-end IoT platform development**. This includes device connectivity, edge computing, telemetry ingestion, real-time data processing, analytics, dashboards, alerts, OTA updates, and full device lifecycle management. I’ve worked across the entire IoT stack—from hardware and protocols to cloud platforms and business applications—turning complex ecosystems into scalable, maintainable systems.
 
-Today, I’m actively exploring how **AI, IoT, and Web 3.0** can converge to support **environmental sustainability initiatives**—from smart energy and resource optimization to real-time environmental monitoring, decentralized data trust, and intelligent automation. My goal is to apply technology not just for scale and efficiency, but for measurable, positive impact on our planet.
+I’m actively exploring how **AI, IoT, and Web 3.0** can converge to support **environmental sustainability initiatives**—from smart energy and resource optimization to real-time environmental monitoring, decentralized data trust, and intelligent automation. My goal is to apply technology not just for scale and efficiency, but for measurable, positive impact on our planet.
 
 I believe the future belongs to systems that are **intelligent, connected, decentralized, and responsible**—and I’m building toward that future, one platform at a time.
 
